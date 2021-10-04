@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/Icezu/demo-pyci.svg?branch=master)](https://app.travis-ci.com/Icezu/demo-pyci)
+
 Continuous Integration Demo
 ============================
 
