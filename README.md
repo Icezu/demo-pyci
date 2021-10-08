@@ -1,5 +1,4 @@
 [![Build Status](https://app.travis-ci.com/Icezu/demo-pyci.svg?branch=master)](https://app.travis-ci.com/Icezu/demo-pyci)
-
 [![codecov](https://codecov.io/gh/Icezu/demo-pyci/branch/master/graph/badge.svg?token=D7VDXT8GZX)](https://codecov.io/gh/Icezu/demo-pyci)
 
 Continuous Integration Demo
